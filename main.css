@@ -1,0 +1,68 @@
+body {
+  background: darkred;
+}
+
+
+.main-title {
+  margin-top: 100px;
+  margin-bottom: 200px;
+  font-family: verdana;
+  color: whitesmoke;
+
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.intro {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left:0;
+  margin-right:0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.last {
+  text-align: center;
+  border: none;
+}
+
+.items-block {
+  color: whitesmoke;
+  margin-left: 100px;
+  margin-right:0;
+}
+
+.secondary-title {
+  font-size: 100px;
+  text-align: center;
+}
+
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: orangered;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.flickr {
+  margin-left: 100px;
+}
